@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="10" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-16T04:27:11Z" name="sanity" finished-at="2023-04-16T04:27:11Z" duration-ms="69">
+    <groups>
+      <group name="sanity">
+        <method signature="HomeLoanTest.test3()[pri:0, instance:testcase.HomeLoanTest@6853425f]" name="test3" class="testcase.HomeLoanTest"/>
+      </group> <!-- sanity -->
+      <group name="regeration">
+        <method signature="CreditCardTest.test4()[pri:0, instance:testcase.CreditCardTest@53251a66]" name="test4" class="testcase.CreditCardTest"/>
+        <method signature="HomeLoanTest.test3()[pri:0, instance:testcase.HomeLoanTest@6853425f]" name="test3" class="testcase.HomeLoanTest"/>
+      </group> <!-- regeration -->
+    </groups>
+    <test started-at="2023-04-16T04:27:11Z" name="Test" finished-at="2023-04-16T04:27:11Z" duration-ms="69">
+      <class name="testcase.CarLoanTest">
+        <test-method is-config="true" signature="befor()[pri:0, instance:testcase.CarLoanTest@63eef88a]" started-at="2023-04-16T04:27:11Z" name="befor" finished-at="2023-04-16T04:27:11Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befor -->
+      </class> <!-- testcase.CarLoanTest -->
+      <class name="testcase.HomeLoanTest">
+        <test-method signature="test3()[pri:0, instance:testcase.HomeLoanTest@6853425f]" started-at="2023-04-16T04:27:11Z" name="test3" finished-at="2023-04-16T04:27:11Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- testcase.HomeLoanTest -->
+      <class name="testcase.CreditCardTest">
+        <test-method signature="test4()[pri:0, instance:testcase.CreditCardTest@53251a66]" started-at="2023-04-16T04:27:11Z" name="test4" finished-at="2023-04-16T04:27:11Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- testcase.CreditCardTest -->
+    </test> <!-- Test -->
+  </suite> <!-- sanity -->
+</testng-results>

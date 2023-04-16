@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="12" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+    <groups>
+      <group name="sanity">
+        <method signature="HomeLoanTest.test3()[pri:0, instance:testcase.HomeLoanTest@a5fe93]" name="test3" class="testcase.HomeLoanTest"/>
+      </group> <!-- sanity -->
+      <group name="regeration">
+        <method signature="HomeLoanTest.test3()[pri:0, instance:testcase.HomeLoanTest@a5fe93]" name="test3" class="testcase.HomeLoanTest"/>
+        <method signature="CreditCardTest.test4()[pri:0, instance:testcase.CreditCardTest@12cf7ab]" name="test4" class="testcase.CreditCardTest"/>
+      </group> <!-- regeration -->
+    </groups>
+    <test name="Test" duration-ms="52" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+      <class name="testcase.CarLoanTest">
+        <test-method status="PASS" signature="befor()[pri:0, instance:testcase.CarLoanTest@79870]" name="befor" is-config="true" duration-ms="16" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befor -->
+        <test-method status="PASS" signature="after()[pri:0, instance:testcase.CarLoanTest@79870]" name="after" is-config="true" duration-ms="0" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- testcase.CarLoanTest -->
+      <class name="testcase.HomeLoanTest">
+        <test-method status="PASS" signature="method1()[pri:0, instance:testcase.HomeLoanTest@a5fe93]" name="method1" is-config="true" duration-ms="1" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:testcase.HomeLoanTest@a5fe93]" name="method2" is-config="true" duration-ms="1" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:testcase.HomeLoanTest@a5fe93]" name="test3" duration-ms="0" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:testcase.HomeLoanTest@a5fe93]" name="method1" is-config="true" duration-ms="1" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="test2()[pri:2, instance:testcase.HomeLoanTest@a5fe93]" name="test2" duration-ms="0" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:testcase.HomeLoanTest@a5fe93]" name="method2" is-config="true" duration-ms="1" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- testcase.HomeLoanTest -->
+      <class name="testcase.CreditCardTest">
+        <test-method status="PASS" signature="test2()[pri:0, instance:testcase.CreditCardTest@12cf7ab]" name="test2" duration-ms="1" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:testcase.CreditCardTest@12cf7ab]" name="method1" is-config="true" duration-ms="0" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:testcase.CreditCardTest@12cf7ab]" name="method2" is-config="true" duration-ms="1" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:testcase.CreditCardTest@12cf7ab]" name="method1" is-config="true" duration-ms="1" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:testcase.CreditCardTest@12cf7ab]" name="method2" is-config="true" duration-ms="0" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:testcase.CreditCardTest@12cf7ab]" name="test4" duration-ms="0" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:testcase.CreditCardTest@12cf7ab]" name="test3" duration-ms="0" started-at="२०२३-०४-१६T०४:५३:३१Z" depends-on-methods="testcase.CreditCardTest.test2" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:testcase.CreditCardTest@12cf7ab]" name="method2" is-config="true" duration-ms="1" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:testcase.CreditCardTest@12cf7ab]" name="method1" is-config="true" duration-ms="0" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:testcase.CreditCardTest@12cf7ab]" name="method2" is-config="true" duration-ms="0" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:testcase.CreditCardTest@12cf7ab]" name="method1" is-config="true" duration-ms="0" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="test1()[pri:1, instance:testcase.CreditCardTest@12cf7ab]" name="test1" duration-ms="0" started-at="२०२३-०४-१६T०४:५३:३१Z" finished-at="२०२३-०४-१६T०४:५३:३१Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- testcase.CreditCardTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
